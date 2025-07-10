@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nodejs-container
-        image: bucky0838/nodejs:4
+        image: bucky0838/nodejs:5
         ports:
         - containerPort: 5001
 
